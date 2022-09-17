@@ -1,0 +1,8 @@
+region        = "us-east-2"
+cidr_block    = "10.20.0.0/16"
+subnet1_cidr  = "10.20.1.0/28"
+subnet2_cidr  = "10.20.2.0/28"
+subnet3_cidr  = "10.20.3.0/28"
+sub1_avl_zone = "us-east-2a"
+sub2_avl_zone = "us-east-2b"
+sub3_avl_zone = "us-east-2c"
